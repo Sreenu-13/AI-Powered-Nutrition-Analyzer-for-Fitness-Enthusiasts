@@ -1,0 +1,2 @@
+# AI-Powered-Nutrition-Analyzer-for-Fitness-Enthusiasts
+The AI-powered nutrition analyzer for fitness enthusiasts revolutionizes dietary habits and fitness goals. It provides personalized recommendations by analyzing age, gender, weight, height, activity level, dietary preferences, and fitness goals. The analyzer offers customized meal plans, nutritional insights, real-time feedback, and educational 
